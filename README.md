@@ -15,11 +15,11 @@ a aliyun sls appender for log4js.
         "type": "pattern",
         "pattern": "%p %c %m"
       },
-      "aliyunKey":"TKbtY14G3FK4vBpE",
-      "aliyunSecret":"dhwYAcQrcDdfcQc5MONddbWOQSiNK0",
+      "aliyunKey":"aliyunKey",
+      "aliyunSecret":"aliyunSecrect",
       "endpoint":"http://cn-hangzhou.sls.aliyuncs.com",
-      "slsProject":"colintest",
-      "logStoreName":"logroot",
+      "slsProject":"porjectname",
+      "logStoreName":"logStoreName",
       "topic":"",
       "category": "test"
     }
