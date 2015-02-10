@@ -24,6 +24,8 @@ a aliyun sls appender for log4js.
       "category": "test"
     }
 
+configure option is setting for [aliyun sdk's js](https://github.com/aliyun-UED/aliyun-sdk-js).
+
 #Code example:
 
     var log4js = require('log4js');
