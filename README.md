@@ -1,5 +1,5 @@
 # log4js-sls-appender
-a aliyun sls appender for log4js.
+This is a aliyun simple log service appender for log4js.
 
 #Installation
 
@@ -24,7 +24,7 @@ a aliyun sls appender for log4js.
       "category": "test"
     }
 
-configure option is setting for [aliyun sdk's js](https://github.com/aliyun-UED/aliyun-sdk-js).
+most configure option is setting for [aliyun sdk's js](https://github.com/aliyun-UED/aliyun-sdk-js).
 
 #Code example:
 
