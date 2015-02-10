@@ -3,13 +3,13 @@ a aliyun sls appender for log4js.
 
 #Installation
 
-  npm install log4js-sls --save
+    npm install log4js-sls --save
 
 #Configuration
 
 /config/logTest.json
 
-  "appenders": {
+    "appenders": {
       "type": "log4js-sls",
       "layout": {
         "type": "pattern",
@@ -26,7 +26,7 @@ a aliyun sls appender for log4js.
 
 #Code example:
 
-  var log4js = require('log4js');
-log4js.configure("./config/logTest.json");
-var logger=log4js.getLogger("test");
-logger.info("hello");
+    var log4js = require('log4js');
+    log4js.configure("./config/logTest.json");
+    var logger=log4js.getLogger("test");
+    logger.info("hello");
