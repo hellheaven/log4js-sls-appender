@@ -2,7 +2,7 @@
   "name": "log4js-sls",
   "main": "index",
   "description": "A log4js log appender to push logs into aliyun sls",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Colin Yu <hellheaven@gmail.com>",
   "directories": {
     "lib": "lib"
